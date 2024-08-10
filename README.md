@@ -1,4 +1,4 @@
-## <CENTER> DIAGRAMA DE CLASES</CENTER>
+## <CENTER> DIAGRAMA DE CLASES DE UN EQUIPO DE FUTBOL </CENTER>
 ![](https://github.com/Yovanygt/imagenes/blob/main/2java-diagrama.png?raw=true )
 
 
